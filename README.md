@@ -2,7 +2,7 @@
 - 👀 I’m interested in **Macroeconomics**
 - 🌱 I’m currently learning computing in **Julia**
 - 💞️ I’m looking to collaborate on research projects in economics
-- 📫 How to reach me : [Email](mailto:justedjabakou@gmail.com )
+- 📫 How to reach me : [Email](mailto:juste.djabakou@umontreal.ca)
 
 <!---
 justedjabakou/justedjabakou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
