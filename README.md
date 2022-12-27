@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justedjabakou
-- 👀 I’m interested in Macroeconomics
-- 🌱 I’m currently learning coding in Julia
+- 👀 I’m interested in **Macroeconomics**
+- 🌱 I’m currently learning computing in **Julia**
 - 💞️ I’m looking to collaborate on research projects in economics
 - 📫 How to reach me : [Email](mailto:justedjabakou@gmail.com )
 
