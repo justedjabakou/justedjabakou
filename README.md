@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justedjabakou
-- 👀 I’m interested in **Macroeconomics**
+- 👀 I’m interested in **Macroeconomics**, currently a Ph.D. Candidate at U. Montreal
 - 🌱 I’m currently learning computing in **Julia**
 - 💞️ I’m looking to collaborate on research projects in economics
 - 📫 How to reach me : [Email](mailto:juste.djabakou@umontreal.ca)
